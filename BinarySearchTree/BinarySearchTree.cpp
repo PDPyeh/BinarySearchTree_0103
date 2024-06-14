@@ -24,6 +24,9 @@ public:
     BinaryTree() {
         ROOT = NULL; //Init ROOT to NULL
     }
+    void insert(string element) {
+
+    }
 };
 
 int main()
