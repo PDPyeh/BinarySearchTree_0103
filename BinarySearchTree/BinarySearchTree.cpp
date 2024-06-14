@@ -20,6 +20,10 @@ public :
 class BinaryTree {
 public:
     Node* ROOT;
+
+    BinaryTree() {
+        ROOT = NULL; //Init ROOT to NULL
+    }
 };
 
 int main()
